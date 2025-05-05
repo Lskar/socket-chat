@@ -1,3 +1,6 @@
+
+### 建表语句
+
 ```mysql
 CREATE DATABASE chat_app;
 
